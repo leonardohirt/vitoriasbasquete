@@ -1,0 +1,26 @@
+{
+  "name": "vitoriasbasquete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardohirt/vitoriasbasquete.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardohirt/vitoriasbasquete/issues"
+  },
+  "homepage": "https://github.com/leonardohirt/vitoriasbasquete#readme",
+  "dependencies": {
+    "xyz": "^4.0.0"
+  },
+  "devDependencies": {
+    "abc": "^0.6.1"
+  }
+}
